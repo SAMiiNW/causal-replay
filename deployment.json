@@ -1,0 +1,17 @@
+{
+  "project": "causal-replay",
+  "network": "StudioNet",
+  "contractAddress": "0x55316b0dd23062F919C7Fb1688c126028C08dAD0",
+  "deploymentTransaction": "0x7669b8eaf5dbb08c64a4ae6c7f57f3ffad80d147f9578f484a0bfacd23e6f82d",
+  "status": "FINALIZED",
+  "consensus": "MAJORITY_AGREE",
+  "execution": "SUCCESS",
+  "sourceCommit": "5668f8e5856f73f74798dfaa92054eb337bd3e84",
+  "repository": "https://github.com/SAMiiNW/causal-replay",
+  "sourceMatchVerified": true,
+  "wallet": "0xCAFA30BF94D4fb01146588a1b7901BD85E7DbD0f",
+  "liveInitializationTransaction": "0xc55392596f7ed182f9f2aa12eb8324e80415b50db61d1f06952866e68e338cbf",
+  "liveRecordId": "LIVE-CAUSE-1789928201",
+  "liveState": "OPEN",
+  "explorerAddress": "https://explorer-studio.genlayer.com/address/0x55316b0dd23062F919C7Fb1688c126028C08dAD0"
+}
