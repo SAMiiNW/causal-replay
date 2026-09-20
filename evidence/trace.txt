@@ -1,0 +1,5 @@
+CAUSAL REPLAY TECHNICAL FIXTURE / ORDERED TRACE
+0 boot ok
+1 load config ok
+2 publish with stale key
+3 authorization denied

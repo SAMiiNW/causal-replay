@@ -1,0 +1,6 @@
+CAUSAL REPLAY TECHNICAL FIXTURE / RUNBOOK
+0 boot
+1 load current config
+2 publish with active key
+3 confirm
+

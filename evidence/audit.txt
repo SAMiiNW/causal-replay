@@ -1,0 +1,3 @@
+CAUSAL REPLAY TECHNICAL FIXTURE / AUDIT
+Event 1 loaded an unauthorized configuration snapshot. The later stale-key publication is a symptom.
+
